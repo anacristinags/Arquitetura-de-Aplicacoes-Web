@@ -6,8 +6,7 @@ Este projeto é uma aplicação Java desenvolvida com Spring Boot que realiza op
 ---
 
 ## 📑 Sumário  
-- [🎯 Objetivo](#-objetivo)  
-- [🛠️ Tecnologias Utilizadas](#-tecnologias-utilizadas) 
+- [🎯 Objetivo e Tecnologias Utilizadas](#-objetivo-e-tecnologias-utilizadas)  
 - [🔗 Relacionamento entre as Entidades](#-relacionamento-entre-as-entidades)  
 - [💾 Como Rodar o Projeto](#-como-rodar-o-projeto)  
 - [🔁 Endpoints da API](#-endpoints-da-api)  
@@ -16,7 +15,7 @@ Este projeto é uma aplicação Java desenvolvida com Spring Boot que realiza op
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivo e Tecnologias Utilizadas
 
 Implementar uma aplicação Spring Boot que:
 
@@ -25,9 +24,7 @@ Implementar uma aplicação Spring Boot que:
 - Utiliza **Lombok** para reduzir boilerplate.
 - Implementa relacionamento entre entidades com persistência real de dados.
 
----
-
-## 🛠️ Tecnologias Utilizadas   
+### 🛠️ Tecnologias Utilizadas   
 
 - **Java 17**
 - **Spring Boot**
@@ -144,25 +141,25 @@ spring.datasource.url=jdbc:mysql://localhost:3306/seu_nome_do_banco
 ## 🎥 Imagens e Vídeos  
 
 ### ➕ Adicionando um Novo Curso  
-📹 [Ver vídeo – Cadastro de Curso](https://github.com/user-attachments/assets/01783266-990f-4a04-b608-af7a21cd805d)
+<a href="https://github.com/user-attachments/assets/01783266-990f-4a04-b608-af7a21cd805d" target="_blank">▶️ Ver vídeo</a>
 
 ---
 
 ### ➕ Adicionando um Novo Aluno  
-📹 [Ver vídeo – Cadastro de Aluno](https://github.com/user-attachments/assets/eb3e4b0a-76ab-42f8-b86f-d602b759438b)
+<a href="https://github.com/user-attachments/assets/eb3e4b0a-76ab-42f8-b86f-d602b759438b" target="_blank">▶️ Ver vídeo</a>
 
 ---
 
-### 🗄 Banco de Dados Atualizado Após Cadastro  
+### 🗂️ Banco de Dados Atualizado Após Cadastro  
 ![Tabela curso atualizada](https://github.com/user-attachments/assets/2af72ed9-1803-4fb2-babd-db5a1e0819d6)
 
 ---
 
-### ❌ Deletando Aluno e Curso  
-📹 [Ver vídeo – Exclusão de dados](https://github.com/user-attachments/assets/b5157363-4ec8-4ad1-8974-a63c70cf4591)
+### 🗑️ Deletando Aluno e Curso  
+<a href="https://github.com/user-attachments/assets/b5157363-4ec8-4ad1-8974-a63c70cf4591" target="_blank">▶️ Ver vídeo</a>
 
 ---
 
-### 🗄 Banco de Dados Atualizado Após Exclusão  
+### 🗂️ Banco de Dados Atualizado Após Exclusão  
 ![Tabela curso limpa](https://github.com/user-attachments/assets/ca8801d3-d647-413f-995d-120d63adb2c6)
 
