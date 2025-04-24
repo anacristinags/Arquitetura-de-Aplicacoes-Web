@@ -163,3 +163,9 @@ spring.datasource.url=jdbc:mysql://localhost:3306/seu_nome_do_banco
 ### 🗂️ Banco de Dados Atualizado Após Exclusão  
 ![Tabela curso limpa](https://github.com/user-attachments/assets/ca8801d3-d647-413f-995d-120d63adb2c6)
 
+
+## 👩‍💻 Desenvolvido por
+
+**Ana Cristina Siqueira**
+
+Este projeto foi criado como parte da avaliação prática da disciplina **Arquitetura de Aplicações Web**, com foco em **persistência de dados**, **boas práticas REST** e **integração com banco de dados relacional** utilizando **Spring Boot** e **MariaDB**.
