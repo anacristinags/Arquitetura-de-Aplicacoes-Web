@@ -40,7 +40,7 @@ Implementar uma aplicação Spring Boot que:
 
 ## 🔗 Relacionamento entre as Entidades:
 Segue uma imagem do relacionameto entre as entidades do Banco de Dados:
-<div align="center"> <img src="https://github.com/user-attachments/assets/fca7f081-9800-4051-af2d-19712ee47844" width="700px" />
+<div align="center"> <img src="https://github.com/user-attachments/assets/62aaafbf-12b7-4942-aacd-d5eb88e16586" width="700px" />
 </div>  
 
 - Um **Curso** pode ter **vários Alunos** (`@OneToMany`)
@@ -141,27 +141,27 @@ spring.datasource.url=jdbc:mysql://localhost:3306/seu_nome_do_banco
 ## 🎥 Imagens e Vídeos  
 
 ### ➕ Adicionando um Novo Curso  
-<a href="https://github.com/user-attachments/assets/01783266-990f-4a04-b608-af7a21cd805d" target="_blank">▶️ Ver vídeo</a>
+<a href="https://github.com/user-attachments/assets/24fae2c2-c544-49af-a36d-2f58413d83a5" target="_blank">▶️ Ver vídeo</a>
 
 ---
 
 ### ➕ Adicionando um Novo Aluno  
-<a href="https://github.com/user-attachments/assets/eb3e4b0a-76ab-42f8-b86f-d602b759438b" target="_blank">▶️ Ver vídeo</a>
+<a href="https://github.com/user-attachments/assets/1b9eed6c-9fdc-4b5b-8f6a-548dad5e7c62" target="_blank">▶️ Ver vídeo</a>
 
 ---
 
 ### 🗂️ Banco de Dados Atualizado Após Cadastro  
-![Tabela curso atualizada](https://github.com/user-attachments/assets/2af72ed9-1803-4fb2-babd-db5a1e0819d6)
+![Tabela curso atualizada](https://github.com/user-attachments/assets/ff61f5d4-bb55-487a-b605-d49f05b15e1d)
 
 ---
 
 ### 🗑️ Deletando Aluno e Curso  
-<a href="https://github.com/user-attachments/assets/b5157363-4ec8-4ad1-8974-a63c70cf4591" target="_blank">▶️ Ver vídeo</a>
+<a href="https://github.com/user-attachments/assets/1c72b95e-d5a9-4748-aa18-063e441b208b" target="_blank">▶️ Ver vídeo</a>
 
 ---
 
 ### 🗂️ Banco de Dados Atualizado Após Exclusão  
-![Tabela curso limpa](https://github.com/user-attachments/assets/ca8801d3-d647-413f-995d-120d63adb2c6)
+![Tabela curso limpa](https://github.com/user-attachments/assets/f8171325-46bc-439c-ae81-1368cea6eb1b)
 
 
 ## 👩‍💻 Desenvolvido por
